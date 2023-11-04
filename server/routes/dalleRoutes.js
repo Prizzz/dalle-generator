@@ -1,5 +1,6 @@
 import express from "express";
 import * as dotenv from "dotenv";
+import fetch from "node-fetch";
 
 dotenv.config();
 
