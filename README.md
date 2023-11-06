@@ -1,4 +1,4 @@
-# Dalle image generator
+# Dalle Image Generator
 This is a full-stack MERN image generation application.
 
 ![DALL-E-Generator](https://github.com/Prizzz/dalle-generator/assets/38956893/675f923d-c0c9-4a1c-9c80-417a6d3d35dc)
