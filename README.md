@@ -21,4 +21,4 @@ This is a full-stack MERN image generation application.
 * OpenAI's DALL-E model
 * Cloudinary a cloud-based image storage service
 
-**[See this site alive (deploy)](https://dalle-generator-k4uz.vercel.app/)**
+**[See this site alive (deploy)](dalle-generator-coral.vercel.app)**
